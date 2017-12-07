@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data>
+    <web name="Bitfinex">
+        <username>jkfhklh@126.com</username>
+        <password>521096Lzf!</password>
+    </web>
+    <web name="HitBTC">
+        <username>jkfhklh@126.com</username>
+        <password>521096Lzf</password>
+    </web>
+</data>
